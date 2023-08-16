@@ -9,4 +9,4 @@
 | --- | --- | --- | 
 | - [x] &ensp;```Spreadsheets``` | - [x] &ensp;```excel charts``` | - [x] &ensp;```Windows``` | 
 | - [x] &ensp;```SQL Queries``` | - [x] &ensp;```sheets charts``` | - [x] &ensp;```Linux```|
-| | | - [x] &ensp;```numbers charts``` | - [x] &ensp;```MacOS``` |
+| | - [x] &ensp;```numbers charts``` | - [x] &ensp;```MacOS``` |
