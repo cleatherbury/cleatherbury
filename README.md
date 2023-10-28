@@ -1,12 +1,11 @@
-| ### Scripting | ### Programming | ### IaC |
+|  Scripting | Programming | IaC |
 | --- | --- | --- |
-| - [x] &ensp;```Python``` | - [x] &ensp;```Statistical``` | - [x] &ensp;```Puppet``` |
-| - [x] &ensp;```Bash``` | - [x] &ensp;```Computer``` | - [x] &ensp;```GCP``` |
-| - [x] &ensp;```Crontab``` | - [x] &ensp;```Testing``` |     - [x] &ensp;```GCDM``` |
-| - [x] &ensp;```Markdown``` | 
+| [x]```r```|[x]```statistical```|[x]```puppet```|[x]```bash```|[x]```computer```|[x]```gcp```|
+|[x]```python``` |[x]```testing```|[x]```gcdm```|[x]```rmarkdown```||
+|[x]```bash```|||
 
-| ### Data Analysis | ### Data Visualization | ### Operating Systems |
+| Data Analysis | Data Visualization | Operating Systems |
 | --- | --- | --- | 
-| - [x] &ensp;```Spreadsheets``` | - [x] &ensp;```excel charts``` | - [x] &ensp;```Windows``` | 
-| - [x] &ensp;```SQL Queries``` | - [x] &ensp;```sheets charts``` | - [x] &ensp;```Linux```|
-| | - [x] &ensp;```numbers charts``` | - [x] &ensp;```MacOS``` |
+|[x]```Spreadsheets```|[x]```ms_goog charts```|[x]```Windows```| 
+|[x]```SQL Queries```|[x]```Tableau```|[x]```Linux```|
+| |[x]```ggplot2```|[x]```MacOS```|
