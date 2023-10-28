@@ -1,8 +1,9 @@
 |  Scripting | Programming | IaC |
 | --- | --- | --- |
-| [x]```r```|[x]```statistical```|[x]```puppet```|[x]```bash```|[x]```computer```|[x]```gcp```|
-|[x]```python``` |[x]```testing```|[x]```gcdm```|[x]```rmarkdown```|
-|[x]```bash```|
+| [x]```r```|[x]```statistical```|[x]```puppet```|
+|[x]```bash```|[x]```computer```|[x]```gcp```|
+|[x]```python``` |[x]```testing```|[x]```gcdm```|
+|[x]```rmarkdown```| -- | -- |
 
 | Data Analysis | Data Visualization | Operating Systems |
 | --- | --- | --- | 
