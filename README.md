@@ -7,6 +7,6 @@
 
 | Data Analysis | Data Visualization | Operating Systems |
 | --- | --- | --- | 
-|[x]```dpreadsheets```|[x]```ms_goog charts```|[x]```windows```| 
+|[x]```spreadsheets```|[x]```ms_goog charts```|[x]```windows```| 
 |[x]```sql queries```|[x]```tableau```|[x]```linux```|
 | |[x]```ggplot2```|[x]```macos```|
